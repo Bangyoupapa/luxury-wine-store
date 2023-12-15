@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/luxury-wine-store/static/css/main.8b6671bb.css",
-    "main.js": "/luxury-wine-store/static/js/main.cad1cb42.js",
+    "main.js": "/luxury-wine-store/static/js/main.eaed1616.js",
     "static/js/787.944adbe1.chunk.js": "/luxury-wine-store/static/js/787.944adbe1.chunk.js",
     "index.html": "/luxury-wine-store/index.html",
     "main.8b6671bb.css.map": "/luxury-wine-store/static/css/main.8b6671bb.css.map",
-    "main.cad1cb42.js.map": "/luxury-wine-store/static/js/main.cad1cb42.js.map",
+    "main.eaed1616.js.map": "/luxury-wine-store/static/js/main.eaed1616.js.map",
     "787.944adbe1.chunk.js.map": "/luxury-wine-store/static/js/787.944adbe1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b6671bb.css",
-    "static/js/main.cad1cb42.js"
+    "static/js/main.eaed1616.js"
   ]
 }
