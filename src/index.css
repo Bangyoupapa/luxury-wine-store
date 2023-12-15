@@ -5,9 +5,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+
+.center-content{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.top-left-links{
+  margin-top: 20px;
+  align-items: flex-start;
+  color: white;
+}
+
+.top-left-links a{
+  margin-right: 20px;
+  color: white;
+}
+
+.product-details-link{
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.product-list-link{
+  color: white;
+  text-decoration: none;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
